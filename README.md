@@ -25,7 +25,3 @@
 или с неточными начальными данными), поэтому оно может браться за основное для
 решения некоторых инженерных задач, что в свою очередь не требует лишней работы
 с весьма громоздким аналитическим решением.
-<figure class = "im">
- <img src= "https://github.com/ppvartm/kurs_4_sem/blob/main/documents/numericial%20sol.png"  width="400" height="260">
- <figcaption>Приближенное решение УТ</figcaption>
-</figure>
